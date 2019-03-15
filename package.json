@@ -8,7 +8,7 @@
     "test": "mocha __test__/**/*.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Darpan Pathak",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.0.2",
