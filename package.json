@@ -1,0 +1,17 @@
+{
+  "name": "golden_crown",
+  "version": "1.0.0",
+  "description": "It is a sample project for problem statement 5 in the backend section of geektrust.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha __test__/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "sinon": "^7.2.7"
+  }
+}
